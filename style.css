@@ -1,0 +1,10 @@
+#Drop{
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+#child{
+    background-color: transparent;
+    color: white;
+    border: 1px white solid;
+    
+}
