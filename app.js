@@ -70,7 +70,7 @@ const products = [
         price: 150.00,
         category: "Footwear",
         brand: "Timberland",
-        img: "https://www.allsole.com/images?url=https://blogscdn.thehut.net/app/uploads/sites/6/2021/04/timberland-1_1636037412.jpg&auto=avif&width=1200&fit=crop"
+        img: "https://shopstreetstyle.pk/wp-content/uploads/2024/12/4-66.jpg"
     },
 
     // Home
